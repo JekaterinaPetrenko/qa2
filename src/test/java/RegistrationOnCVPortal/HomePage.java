@@ -36,7 +36,6 @@ public class HomePage {
 
         WebElement loginButton = driver.findElement(LOGIN_BUTTON);
         loginButton.click();
-        //jjjjj
     }
 
 }
