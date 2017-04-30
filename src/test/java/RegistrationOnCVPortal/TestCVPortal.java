@@ -80,6 +80,7 @@ public class TestCVPortal {
         LOGGER.info("Opening Google Chrome browser");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
+        //kkk
 
         return driver;
     }

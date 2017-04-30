@@ -52,6 +52,7 @@ public class LoginPage {
         WebElement remindMeButton = driver.findElement(BUTTON);
         remindMeButton.click();
 
+        //lo
 //        String linkForPassword = driver.findElement(LINK_FOR_PASSWORD).getText();
 //        String linkIsSent = linkForPassword;
 //        Assert.assertTrue("Link for password changing is successfully sent to your e-mail address!", linkIsSent.contains(linkForPassword));

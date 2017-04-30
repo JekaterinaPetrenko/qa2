@@ -60,6 +60,7 @@ public class MailBox {
             //if it contains the current window we want to eliminate that from switchTo();
             if (window != currentWindowHandle) {
                 //Now switchTo new Tab.
+                //kk
                 driver.switchTo().window(window);
             }
 
