@@ -74,7 +74,7 @@ public class TestAutomation {
             System.out.println(baseFunctions.findElements(COMMENT_NUMBER).size());
 
         }
-
+//
 
             LOGGER.info("Number of comments");
             baseFunctions.waitForElement(COMMENT_NUMBER, 5);

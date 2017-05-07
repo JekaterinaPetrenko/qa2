@@ -32,7 +32,7 @@ public class BrowserDelfi {
         }
 
     }
-
+//
 public void listOfWebArticles(){
 
     List<WebElement> browserArticles = baseFunctions.findElements(ARTICLES);

@@ -71,7 +71,7 @@ public class BaseFunctions {
             driver.findElement(element).clear();
             driver.findElement(element).sendKeys(text);
         }
-
+//mmm
         /**
          * This method created to pause test - needs to wait for data refresh or receiving mail message
          *
