@@ -59,7 +59,7 @@ public class NewsPortalTesting {
 
         LOGGER.info("Check up of unregistered comments count");
         Assert.assertEquals(countOfUnreg, commentPage.unregisteredCommentsCount());
-
+//
         LOGGER.info("Common count of comments is true");
         Assert.assertEquals(5, countOfReg + countOfUnreg);
 

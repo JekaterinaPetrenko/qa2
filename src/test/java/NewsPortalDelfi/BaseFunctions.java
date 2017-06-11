@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.List;
 
-
+//
 public class BaseFunctions {
     private static final String CHROME_DRIVER_LOCATION = "C:\\Users\\Master\\IdeaProjects\\drivers\\chromedriver.exe";
 

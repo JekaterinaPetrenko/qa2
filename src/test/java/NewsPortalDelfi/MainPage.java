@@ -41,7 +41,7 @@ public class MainPage {
             LOGGER.info(entry.getKey() + ": " + entry.getValue());
         }
     }
-
+//
     public void openArticle(){
         LOGGER.info("Choose article which you want to test:");
         baseFunctions.click(By.xpath("(//h3//a[contains(@class, 'top2012-title')])[4]"));
