@@ -53,7 +53,6 @@ public class BaseFunctions {
 
         LOGGER.info("Stopping driver");
         driver.quit();
-//            second_driver.quit();
     }
 
     /**
